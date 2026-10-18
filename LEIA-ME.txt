@@ -1,0 +1,15 @@
+MEU DIÁRIO DE ENXAQUECA — pacote PWA para iPhone
+
+O QUE CONTÉM
+index.html (aplicativo), manifest.webmanifest, sw.js (cache offline básico) e icon.svg.
+
+PARA INSTALAR NA TELA INICIAL
+1. Descompacte o ZIP.
+2. Publique os quatro arquivos em um serviço de hospedagem estática HTTPS (por exemplo, GitHub Pages ou Netlify). O ZIP não publica o site sozinho.
+3. Abra o endereço publicado no Safari do iPhone.
+4. Toque em Compartilhar > Adicionar à Tela de Início > Adicionar.
+
+PRIVACIDADE
+Os registros ficam no armazenamento local do navegador, neste dispositivo e endereço. Não há conta nem sincronização automática. Limpar dados do Safari, mudar de endereço/navegador ou trocar de aparelho pode tornar os dados inacessíveis. Exporte backups periodicamente e guarde-os em local privado.
+
+O app não está publicado na App Store e não substitui avaliação médica. A instalação como PWA e o cache offline exigem hospedagem HTTPS.
